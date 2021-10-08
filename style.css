@@ -1,6 +1,6 @@
 body {
   background-image: radial-gradient(blue, violet);
-  font-family: "Ninja Naruto", arial;
+  font-family: "Ninja Naruto",sans-serif;
 }
 /* Custom Scroll Bar */
 ::-webkit-scrollbar {
